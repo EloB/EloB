@@ -58,24 +58,24 @@ open "mailto:olle.broms@ewebbyran.se?subject=Reconnect after I saw your Github.&
 EloB
 │
 ├── 🤓 Private
-│		├── 🐣 1986.born
-│		├── 💾 1990.got.amiga500+
-│		├── 🤼 1992.start.wrestling
-│		├── ⌨️ 1991.start.demoing
-│		├── 🏀 1995.start.handboll
-│		├── 🖥️ 1994.got.486intellmmx
-│		└── 🌐 1995.first.lanparty
+│   ├── 🐣 1986.born
+│   ├── 💾 1990.got.amiga500+
+│   ├── 🤼 1992.start.wrestling
+│   ├── ⌨️ 1991.start.demoing
+│   ├── 🏀 1995.start.handboll
+│   ├── 🖥️ 1994.got.486intellmmx
+│   └── 🌐 1995.first.lanparty
 │
 ├── 🏫 School
-│		├── 🎓 2002.graduate.primaryschool
-│		└── 🎓 2005.graduate.highschool
+│   ├── 🎓 2002.graduate.primaryschool
+│   └── 🎓 2005.graduate.highschool
 │
 └── 💼 Career
-		├── 👨‍💻 2007.webDeveloper.tablefinder
-		├── 👨‍💻 2007.itEnginneer.sahlgrenskaUniversityHospital
-        ├── 👨‍💻 2007.webDeveloper.foreverLivingProducts
-		├── 👨‍💻 2009.webDeveloper.lokalNytt
-		└── 👔 2010.CTO.ewebbyrån
+    ├── 👨‍💻 2007.webDeveloper.tablefinder
+    ├── 👨‍💻 2007.itEnginneer.sahlgrenskaUniversityHospital
+    ├── 👨‍💻 2007.webDeveloper.foreverLivingProducts
+    ├── 👨‍💻 2009.webDeveloper.lokalNytt
+    └── 👔 2010.CTO.ewebbyrån
 ```
 
 ## Bugs & feature requests
@@ -134,7 +134,7 @@ Technology I love and use in my daily life.
 | <img src="https://cdn.svgporn.com/logos/chrome.svg" alt="Google Chrome logo" width="38" height="38" />                | [Chrome](https://www.google.com/chrome/)                              | Web browser        |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/brave.svg" alt="Brave logo" width="38" height="38" />                         | [Brave](https://brave.com/)                                           | Web browser        |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/safari.svg" alt="Apple Safari logo" width="38" height="38" />                 | [Safari](https://www.apple.com/safari/)                               | Web browser        | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
-| <img src="img/tech/tor.png" alt="Tor Project logo" width="38" height="38" />                                          | [Tor Project](https://www.torproject.org/)                            | Web browser        |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
+| <img src="img/tech/tor-logo.svg" alt="Tor Project logo" width="38" height="38" />                                     | [Tor Project](https://www.torproject.org/)                            | Web browser        |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/firefox.svg" alt="Mozilla Firefox logo" width="38" height="38" />             | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)             | Web browser        |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/react.svg" alt="ReactJS logo" width="38" height="38" />                       | [ReactJS](https://reactjs.org/)                                       | JavaScript lib     |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="img/tech/react-spring-logo.svg" alt="React Spring logo" width="38" height="38" />                           | [React Spring](https://www.react-spring.io/)                          | Animations lib     |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
@@ -166,9 +166,9 @@ Technology I love and use in my daily life.
 | <img src="img/tech/editorconfig.png" alt="EditorConfig logo" width="38" height="38" />                                | [Editor Config](https://editorconfig.org/)                            | Hosting            |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="img/tech/husky.png" alt="Husky logo" width="38" height="38" />                                              | [Husky](https://typicode.github.io/husky/#/)                          | Hosting            |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/prettier.svg" alt="Prettier logo" width="38" height="38" />                   | [Prettier](https://prettier.io/)                                      | Hosting            |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
-| <img src="img/tech/commitlint.png" alt="Commitlint logo" width="38" height="38" />                                    | [Commitlint](https://commitlint.js.org/)                              | Lint               | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
+| <img src="img/tech/commitlint-logo.svg" alt="Commitlint logo" width="38" height="38" />                               | [Commitlint](https://commitlint.js.org/)                              | Lint               | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="img/tech/commitizen-logo.svg" alt="Commitizen logo" width="38" height="38" />                               | [Commitizen](http://commitizen.github.io/cz-cli/)                     | Hosting            | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
-| <img src="img/tech/semantic-release.png" alt="Semantic-Release logo" width="38" height="38" />                        | [Semantic-Release](https://semantic-release.gitbook.io/)              | Hosting            | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
+| <img src="img/tech/semantic-release-logo.svg" alt="Semantic-Release logo" width="38" height="38" />                   | [Semantic-Release](https://semantic-release.gitbook.io/)              | Hosting            | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="img/tech/schema-org.png" alt="Schema.org logo" width="38" height="38" />                                    | [Schema.org](https://schema.org/)                                     | Data structure     | TRUE    |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/trello.svg" alt="Trello logo" width="38" height="38" />                       | [Trello](https://trello.com/)                                         | Webapp             |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
 | <img src="https://cdn.svgporn.com/logos/zapier.svg" alt="Zapier logo" width="38" height="38" />                       | [Zapier](https://zapier.com/)                                         | Webapp             |         |      | ▓▓▓▓▓▓▓▓▓▓▓▓░░░ 81% |
